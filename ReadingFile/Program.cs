@@ -9,7 +9,8 @@ namespace Readling_Writing
     {
         static void Main(string[] args)
         {
-              File.AppendAllText("output.text", "\n Привет этот текст добавится в файле\n");
+            string desktopPath = Path.Combine(@"C:\Users", Environment.UserName, "Desktop");
+            File.AppendAllText($"{desktopPath}\output.text","\n Привет этот текст добавится в файле\n");
             string[] lines = File.ReadAllLines("output.text");
             Console.WriteLine("Содержимое файла:\n");
             foreach (string line in lines)
