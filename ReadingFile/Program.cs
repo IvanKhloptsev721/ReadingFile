@@ -11,13 +11,9 @@ namespace Readling_Writing
         {
             string desktopPath =Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
             string filePath = Path.Combine(desktopPath,"output.text");
-            File.WriteAllText(filePath,"\n Привет этот текст добавится в файле\n")
+            File.WriteAllText(filePath, "\n Привет этот текст добавится в файле\n");
             string[] lines = File.ReadAllLines("output.text");
-            Console.WriteLine("Содержимое файла:\n");
-            foreach (string line in lines)
-            {
-                Console.WriteLine(line);
-            }
+
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\obj\Debug\net8.0\ReadingFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\obj\Debug\net8.0\ReadingFile.AssemblyInfoInputs.cache
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\obj\Debug\net8.0\ReadingFile.AssemblyInfo.cs
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\obj\Debug\net8.0\ReadingFile.csproj.CoreCompileInputs.cache
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\obj\Debug\net8.0\ReadingFile.sourcelink.json
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\bin\Debug\net8.0\ReadingFile.exe
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\bin\Debug\net8.0\ReadingFile.deps.json
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\bin\Debug\net8.0\ReadingFile.runtimeconfig.json
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\bin\Debug\net8.0\ReadingFile.dll
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\bin\Debug\net8.0\ReadingFile.pdb
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\obj\Debug\net8.0\ReadingFile.dll
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\obj\Debug\net8.0\refint\ReadingFile.dll
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\obj\Debug\net8.0\ReadingFile.pdb
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\obj\Debug\net8.0\ReadingFile.genruntimeconfig.cache
+C:\Users\Ivan_comp\source\repos\ReadingFile\ReadingFile\obj\Debug\net8.0\ref\ReadingFile.dll
